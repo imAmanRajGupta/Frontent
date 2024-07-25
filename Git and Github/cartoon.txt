@@ -4,3 +4,5 @@ Himaware
 Shiro
 Gian
 Suneo
+Nobita 
+Doraemon
